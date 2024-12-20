@@ -10,7 +10,7 @@
 ### Что такое GitHub?
 GitHub — сайт для размещения IT-проектов, основанный на системе контроля версий.
 
-### H3 Функции GitHub:
+### Функции GitHub:
 1. Pull Requests;
 2. Issues;
 3. GitHub Pages;
